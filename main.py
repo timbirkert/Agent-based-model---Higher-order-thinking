@@ -2,7 +2,7 @@ from Population import *
 from Distribution_determening import new_distribution
 from Plot import *
 from Poisson_distribution import First_Generation_Distribution
-from Game_creater import *
+from Game_creator import *
 import numpy as np
 
 #population distribution in the first generation
