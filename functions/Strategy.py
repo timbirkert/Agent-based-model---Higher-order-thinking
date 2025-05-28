@@ -1,8 +1,8 @@
-Game1= [
-    [[10, 15], [6, 27], [12, 30]],
-    [[20, 18], [16, 15], [8, 24]],
-    [[6, 15], [18, 9], [10, 12]]
-]
+#Game1= [
+ #   [[10, 15], [6, 27], [12, 30]],
+  #  [[20, 18], [16, 15], [8, 24]],
+   # [[6, 15], [18, 9], [10, 12]]
+#]
 import random
 
 def Strategy_rowplayer(rowplayer_level,Game, Smart_Lvl0): #this function defines the strategy of the rowplayer it always returns one row of the matrix
