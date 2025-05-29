@@ -1,7 +1,8 @@
-### 🧠 Agent-Based Model: Higher-Order Thinking in Evolutionary Games
-
+## 🧠 Agent-Based Model: Higher-Order Thinking in Evolutionary Games  
+  
 This project implements an agent-based model that simulates how agents with different levels of strategic reasoning perform and evolve in competitive environments. The model explores evolutionary dynamics where cognitive complexity, environmental uncertainty, and payoff structures determine which strategies prevail over time.
 For more details here the respective [Paper](BachelorThesis-TimBirkert.pdf)
+
 ---   
 
 ## 🔍 Overview
